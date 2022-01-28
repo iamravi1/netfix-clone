@@ -1,0 +1,103 @@
+.title-class{
+    background-image: url("https://store-images.s-microsoft.com/image/apps.15888.14423078968512755.d11c5fca-bb25-41c8-ab41-0b7c96658846.3cd46fd7-6960-4703-9c58-9d8a8caa2bc4?mode=scale&q=90&h=1080&w=1920");
+  height: 720px;
+  width: 100%;
+}
+body{
+    background-color: black;
+    width: 100%;
+}
+#one{
+    padding: 4%;
+}
+.line{
+    background-color: rgb(37, 37, 37);
+    padding: 0.3%;
+}
+h1{
+    color: #fff;
+    font-size: 47px;
+    padding-top: 20%;
+}
+p{
+    color: #fff;
+    font-size: 25px;
+    padding-top: 3%;
+}
+h2{
+    color: #fff;
+    text-align: center;
+    font-size: 55px;
+}
+.right{
+    padding-left: 100px;
+}
+.left{
+    padding-right: 100px;
+}
+image{
+    padding-bottom: 3%; 
+    width: 400px;
+}
+#two{
+    padding: 4%;
+}
+#three{
+    padding: 4%;
+}
+#four{
+    padding: 4%;
+}
+#five{
+    padding: 2%;
+}
+.faq-p{
+    text-align: center;
+    padding: 3% 15%;
+    top: 55%;
+}
+.nav{
+    margin-top: 889px;
+}
+.faq-q{
+    background-color: rgb(37, 37, 37);
+    text-align: left;
+    padding-top: -2px;
+    padding-left: 20px;
+}
+.line1{
+    background-color: black;
+}
+.faqst{
+    font-size: 25px;
+    padding-top: 20px; 
+    margin-bottom: 17px;
+}
+#end{
+    padding: 6% 15%;
+}
+.coloum{
+    color: #757575;
+    padding: 5px 4px;
+}
+.abc{
+    text-align: center;
+    margin: 120px 350px;
+}
+.btn-dark {
+    border-color: #757575;
+    background-color: #000000;
+    border-radius: 3px;
+    padding: 6px 0px;
+    padding-right: 17px;
+}
+
+.lang1, .lang2 {
+    border: solid #757575 1px;
+    padding: 4px 10px;
+}
+@media(max-width:1028px){
+    .coloum{
+        
+    }
+}
